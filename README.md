@@ -78,7 +78,7 @@ print("Final bias (b):",b)
 
 ## Output:
 <img width="1311" height="733" alt="Screenshot 2026-01-31 104943" src="https://github.com/user-attachments/assets/c0a92448-2f06-420a-9e8e-6ac61ec07338" />
-<img width="1311" height="733" alt="Screenshot 2026-01-31 104943" src="https://github.com/user-attachments/assets/c0a92448-2f06-420a-9e8e-6ac61ec07338" />
+
 
 
 
