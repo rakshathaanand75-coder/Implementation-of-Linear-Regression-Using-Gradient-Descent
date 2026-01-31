@@ -26,7 +26,8 @@ RegisterNumber: 25005345
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
- data = pd.read_csv("C:/Users/91908/Downloads/50_Startups.csv")
+
+data = pd.read_csv("C:/Users/91908/Downloads/50_Startups.csv")
 x = data["R&D Spend"].values
 y = data["Profit"].values
 x_mean = np.mean(x)
@@ -49,6 +50,7 @@ for _ in range(epochs):
 
     w -= alpha * dw
     b -= alpha * db
+
 plt. subplot(1, 2, 1) 
 plt.plot(losses)
 plt. xlabel("Iterations") 
