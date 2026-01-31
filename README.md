@@ -69,7 +69,6 @@ plt.show()
 print("final weight (w):", w)
 print("final bias (b):", b)           
 */ 
-*/
 ```
 
 ## Output:
